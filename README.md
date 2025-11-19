@@ -30,6 +30,7 @@ I am passionate about the convergence of **perception, decision, and control**. 
 | 🚨 **[Incident Co-Pilot](https://github.com/Alecbossard/incident-copilot)** | AI-powered incident management assistant. Monorepo with vector search (pgvector) and contextual chat. Deployed on AWS. | NestJS, Next.js, OpenAI, Docker |
 | 📊 **[User Analytics & Churn Platform](https://github.com/Alecbossard/user-analytics-churn-platform)** | End-to-end ML platform for churn prediction. Includes data cleaning, model tuning (RF, XGBoost), and dashboard. | Python, Scikit-learn, Streamlit |
 | 🤖 **[Integrated Autonomous Robot (PFR2)](https://github.com/Alecbossard/PFR2)** | Complete autonomous robot: navigation, obstacle avoidance, voice control, and object detection. | Python, ROS, Computer Vision |
+| 🏎️ **[Path Planning Simulation](https://github.com/guilhem0908/PathPlanning/tree/master)** | Navigation algorithm for autonomous racing: centerline extraction, greedy path sorting, and **B-Spline** smoothing. | Python, NumPy, SciPy, Pygame |
 | 🧠 **[Cat vs Dog - From Scratch](https://github.com/Alecbossard/cat-vs-dog-neural-network)** | Neural network implementation in **pure NumPy** (no Framework) to understand backpropagation. | Python, NumPy |
 
 ---
