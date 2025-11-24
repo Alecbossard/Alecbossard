@@ -59,7 +59,7 @@ I am passionate about the convergence of **perception, decision, and control**. 
   <a href="mailto:alecbossard@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[alec-robotics.web.app](https://alec-robotics.web.app/)">
+  <a href="https://alec-robotics.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
