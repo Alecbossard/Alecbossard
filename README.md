@@ -52,14 +52,6 @@ I am passionate about the convergence of **perception, decision, and control**. 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alecbossard&show_icons=true&theme=radical&count_private=true" height="180" alt="Alec Bossard's GitHub Stats" />
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alec-bossard/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -67,7 +59,7 @@ I am passionate about the convergence of **perception, decision, and control**. 
   <a href="mailto:alecbossard@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://alecbossard.github.io/">
+  <a href="alec-robotics.web.app">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
