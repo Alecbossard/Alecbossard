@@ -5,7 +5,6 @@
 I am passionate about the convergence of **perception, decision, and control**. I enjoy building complete systems, ranging from robot kinematics (UR3R, autonomous navigation) to end-to-end Machine Learning pipelines (Scikit-learn, PyTorch), including modern Web architectures (NestJS, Docker, AWS).
 
 - 🔭 I’m currently working on **autonomous robotics** and **applied AI** projects.
-- 🎯 I’m looking for an **internship abroad** (Availability: **April 01, 2026 → August 31, 2026**).
 - 👯 I’m open to collaborating on **Open Source** projects in AI and Robotics.
 - 📍 Based in **Toulouse, France**.
 
