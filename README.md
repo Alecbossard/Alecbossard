@@ -89,12 +89,12 @@ Worked on autonomous trajectory planning and vehicle control for a Formula Stude
 
 | Project | What I built | Main technologies |
 |---|---|---|
-| 🏎️ **[Path Planning Studio](https://github.com/Alecbossard/PathPlanning)** | Interactive 3D environment for prototyping autonomous racing algorithms before ROS 2 integration. RRT*, QP trajectory optimization, vehicle simulation and real-time telemetry. | TypeScript · React · Three.js · RRT* · QP |
-| 🚨 **[Incident Co-Pilot](https://github.com/Alecbossard/incident-copilot)** | AI-powered incident management platform with contextual assistance, vector similarity search and incident summarization. | TypeScript · NestJS · Next.js · FastAPI · pgvector · Docker |
-| 📊 **[User Analytics & Churn Prediction](https://github.com/Alecbossard/user-analytics-churn-platform)** | End-to-end ML pipeline for customer churn prediction, reaching ~**0.84 ROC AUC**, with model comparison and an interactive analytics dashboard. | Python · Scikit-learn · XGBoost · PyTorch · Streamlit |
-| 🦾 **[UR3 Kinematics & Trajectory Generation](https://github.com/Alecbossard/robot_UR3)** | Forward/inverse kinematics, Jacobian-based differential models and Cartesian-to-joint trajectory generation for a 6-DOF UR3 manipulator. | Python · NumPy · SymPy · Matplotlib |
-| 🤖 **[Autonomous Mobile Robot](https://github.com/Alecbossard/PFR2)** | Academic mobile robot integrating autonomous navigation, obstacle avoidance, object tracking, voice control and a web HMI. | Python · C++/Arduino · OpenCV · Flask · Embedded Systems |
-| 🧠 **[MobileNetV2 – CIFAR-100](https://github.com/Alecbossard/cifar100-mobilenetv2)** | Two-stage transfer-learning and fine-tuning pipeline for CIFAR-100, reaching **>71% test accuracy**. | TensorFlow · MobileNetV2 · Transfer Learning |
+| 🏎️ **[Path Planning Studio](https://github.com/Alecbossard/Path-Planning-Studio)** | Interactive 3D environment for prototyping autonomous racing algorithms before ROS 2 integration. RRT*, QP trajectory optimization, vehicle simulation and real-time telemetry. | TypeScript · React · Three.js · RRT* · QP |
+| 🚨 **[Incident Co-Pilot](https://github.com/Alecbossard/Incident-Co-Pilot)** | AI-powered incident management platform with contextual assistance, vector similarity search and incident summarization. | TypeScript · NestJS · Next.js · FastAPI · pgvector · Docker |
+| 📊 **[Churn Prediction Platform](https://github.com/Alecbossard/Churn)** | End-to-end machine learning pipeline for customer churn prediction, reaching ~**0.84 ROC AUC**, with model comparison and an interactive analytics dashboard. | Python · Scikit-learn · XGBoost · PyTorch · Streamlit |
+| 🦾 **[UR3 Kinematics & Trajectory Generation](https://github.com/Alecbossard/UR3)** | Forward/inverse kinematics, Jacobian-based differential models and Cartesian-to-joint trajectory generation for a 6-DOF UR3 manipulator. | Python · NumPy · SymPy · Matplotlib |
+| 🤖 **[Autonomous Mobile Robot](https://github.com/Alecbossard/Autonomous-Mobile-Robot)** | Academic mobile robot integrating autonomous navigation, obstacle avoidance, object tracking, voice control and a web HMI. | Python · C++/Arduino · OpenCV · Flask · Embedded Systems |
+| 🧠 **[MobileNetV2 – CIFAR-100](https://github.com/Alecbossard/MobileNetV2)** | Two-stage transfer-learning and fine-tuning pipeline for CIFAR-100, reaching **>71% test accuracy**. | TensorFlow · MobileNetV2 · Transfer Learning |
 
 ---
 
