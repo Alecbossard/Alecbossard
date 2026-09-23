@@ -9,7 +9,7 @@ Former Research Intern at **AIST, Japan 🇯🇵**
 
 **Looking for a 6-month internship · March → August 2027**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alecbossard.com-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://alecbossard.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://alecbossard.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alec_Bossard-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alec-bossard/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](./Alec_Bossard_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-alecbossard%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:alecbossard@gmail.com)
