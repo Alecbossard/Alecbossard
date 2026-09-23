@@ -11,7 +11,7 @@ Former Research Intern at **AIST, Japan 🇯🇵**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://alecbossard.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alec_Bossard-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alec-bossard/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](./Alec_Bossard_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://alecbossard.com/cv)
 [![Email](https://img.shields.io/badge/Email-alecbossard%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:alecbossard@gmail.com)
 
 </div>
@@ -118,7 +118,7 @@ I'm currently looking for a **6-month internship from March to August 2027** in 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://alecbossard.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alec-bossard/)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-B31B1B?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./Alec_Bossard_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://alecbossard.com/cv)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alecbossard@gmail.com)
 
 </div>
